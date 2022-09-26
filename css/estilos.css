@@ -1,0 +1,36 @@
+body ,html{
+    width: 100%;
+    height: 100%;
+    grid-template-areas: "";
+}
+.IMAGEN{
+
+display:flex;
+justify-content: center;
+height: 180px;
+width: 400px;
+margin: auto;
+}
+li{
+text-align: topp;
+float: left; 
+margin: 30px;
+
+}
+li a{ 
+text-decoration: none;
+color: aqua;
+font-size: 30px;
+font-family: 'Times New Roman', Times, serif;
+}
+li a:hover{
+ color: azure;
+
+}
+ul{
+    display: flex;
+    width: auto;
+    height: 60px;
+    background-color: rgb(2, 2, 2);
+
+}
